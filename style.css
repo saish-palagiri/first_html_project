@@ -1,0 +1,18 @@
+body{
+	background-color : #bdc7bb;
+}
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: #ffffff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(146, 127, 127,0.1);
+        }
+		 p {
+         color: darkblue;   
+        }
+		 h1 {
+            color: #fc0303;
+        }
+	h1{text-align:center;}
+	p {text-align: center;}
